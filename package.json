@@ -1,5 +1,6 @@
 {
 	"name": "Mohamed achraf",
+	"author": "Mohamed achraf",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Jrachraf/nodejsJson.git"
-	},
-	"author": "Mohamed achraf"
+	}
+	
 }
